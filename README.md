@@ -1,4 +1,4 @@
-# Cardiotocography-Project
+# Cardiotocography Project
 Cardiotocography (CTG) is a medical procedure to record fetal heartbeat and contractions of the uterus during pregnancy. CTG reading is significant to understand the condition of the foetus and prevent any mortality.
 
 It is usually used in the third trimester to monitor foetal well- being and early detection of foetal distress. An abnormal CTG indicated the need for more invasive investigations and may lead to the need for emergency caesarian section.
